@@ -18,6 +18,7 @@ public class App {
         output("Name: " + tomcat.getStringAttributes("#name"));
         output("Fellfarbe " + tomcat.getStringAttributes("#furColor"));
         output("Alter: " + tomcat.getAge());
+        output("Alter: " + tomcat.getAge());
         
     }
 
